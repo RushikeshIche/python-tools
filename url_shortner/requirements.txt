@@ -1,0 +1,3 @@
+using pip command install "pyshortners"
+
+import ans use the url shortner
