@@ -1,0 +1,5 @@
+following libraries must be installed externally:
+1.matplotlib - https://matplotlib.org/2.0.2/users/installing.html
+2.networkx - https://networkx.org/
+
+install using pip command and use the visualizer
